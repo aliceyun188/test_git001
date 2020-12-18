@@ -1,3 +1,3 @@
-Git is a version control system.
-Git is free software.
-NO。1readme
+1Git is a version control system.-hello
+2Git is free software.
+3NO。1readme
